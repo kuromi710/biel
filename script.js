@@ -9,7 +9,7 @@ const mp4 = document.querySelector('.mp4');
 yesBtn.addEventListener('click', () => {
     question.innerHTML = "Thankyou for this opportunity and I promise not to waste this chance."
     gif.src =
-     "https://gifdb.com/images/high/you-re-the-best-thumbs-up-tonton-friends-3cticvwjsvpynow7.gif"
+     "https://i.pinimg.com/originals/90/df/66/90df6664fb0bf88a11fec12e34caf53d.gif"
      
     mp3.play(mp3.document)
     mp4.pause(mp4.document)
@@ -18,7 +18,7 @@ yesBtn.addEventListener('click', () => {
 });
 noBtn.addEventListener('click', () => {
     question.innerHTML = "Are you Sure?"
-    gif.src = "https://media3.giphy.com/media/k8etDFKWMUpTi7yATD/giphy.gif?cid=6c09b952f2rfyasa28pa6n9gc5vha3khl0v595rqf9o78rh5&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"
+    gif.src = "https://media.tenor.com/mQgsdMciwSQAAAAj/kuromi-crying.gif://media3.giphy.com/media/k8etDFKWMUpTi7yATD/giphy.gif?cid=6c09b952f2rfyasa28pa6n9gc5vha3khl0v595rqf9o78rh5&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"
     mp4.play(mp4.document)
     mp3.pause(mp3.document)
     yesBtn.ariaSetSize =+1
